@@ -89,3 +89,20 @@ button:hover {
     font-size: 1.1rem;
 }
 
+small {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    color: #555;
+}
+
+.form-message {
+    margin: 10px 0 15px;
+    text-align: center;
+    color: #b00020;
+    font-size: 0.9rem;
+}
+
+.form-message.success {
+    color: #0a7a2f;
+}
